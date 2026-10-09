@@ -1,0 +1,6 @@
+{
+  "name": "Aquavista Waterpark",
+  "description": "Experience thrilling slides, refreshing pools, family attractions, and unforgettable moments at Aquavista Waterpark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
